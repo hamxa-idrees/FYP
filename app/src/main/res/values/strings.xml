@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Home Solutions</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api" translatable="false">AIzaSyAS38Y1gJ9iakeo-AnNu8Ol6iCVBKVo3-E</string>
+</resources>
